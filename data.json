@@ -13,5 +13,10 @@
         "name": "charan",
         "age": "18",
         "city": "chirala"
+    },
+    {
+        "name": "wasim",
+        "age": "18",
+        "city": "guntur"
     }
 ]
