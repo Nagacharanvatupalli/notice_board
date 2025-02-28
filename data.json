@@ -33,5 +33,10 @@
         "name": "wasim",
         "age": "18",
         "city": "guntur"
+    },
+    {
+        "name": "dhoni",
+        "age": "18",
+        "city": "bza"
     }
 ]
